@@ -8,12 +8,12 @@
 // @exclude         *
 // @icon            https://www.google.com/s2/favicons?domain=cookidoo.fr
 // @grant           none
-// @license         Apache License 2.0 http://www.apache.org/licenses/
+// @license         Apache-2.0
 // @copyright       2021, Thomas Deblock
 // @homepageURL     https://github.com/deblockt/cookomix-to-cookidoo
 // @supportURL      https://github.com/deblockt/cookomix-to-cookidoo/issues
 // @contributionURL https://github.com/deblockt/cookomix-to-cookidoo
-// @updateURL       https://openuserjs.org/meta/deblock.thomas.62gmail.com/cookomix-importer.meta.js
+// @updateURL       https://github.com/deblockt/cookomix-to-cookidoo/edit/main/cookomix-importer.js
 // ==/UserScript==
 
 (function () {
