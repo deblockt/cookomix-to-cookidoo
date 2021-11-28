@@ -1,14 +1,19 @@
 // ==UserScript==
-// @name         Import des recette cookomix dans cookidoo
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  Permet d'importer les recette de cookimix dans les recette de cookidoo
-// @author       deblockt
-// @match        https://cookidoo.fr/created-recipes/*
-// @exclude      *
-// @icon         https://www.google.com/s2/favicons?domain=cookidoo.fr
-// @grant        none
-// @license      MIT
+// @name            Import des recette cookomix dans cookidoo
+// @namespace       http://tampermonkey.net/
+// @version         0.1
+// @description     Permet d'importer les recette de cookimix dans les recette de cookidoo
+// @author          deblockt
+// @match           https://cookidoo.fr/created-recipes/*
+// @exclude         *
+// @icon            https://www.google.com/s2/favicons?domain=cookidoo.fr
+// @grant           none
+// @license         Apache License 2.0 http://www.apache.org/licenses/
+// @copyright       2021, Thomas Deblock
+// @homepageURL     https://github.com/deblockt/cookomix-to-cookidoo
+// @supportURL      https://github.com/deblockt/cookomix-to-cookidoo/issues
+// @contributionURL https://github.com/deblockt/cookomix-to-cookidoo
+// @updateURL       https://openuserjs.org/meta/deblock.thomas.62gmail.com/cookomix-importer.meta.js
 // ==/UserScript==
 
 (function () {
