@@ -9,3 +9,5 @@ Pour importer les recette cookomix dans cookidoo, vous pouvez procéder aux éta
 
 - déconnectez vous de cookidoo et reconnectez vous
 - aller dans la section [Mes créations](https://cookidoo.fr/created-recipes/fr-FR) cliquez sur "importer une recette" et saisissez une URL cookomix.
+
+> **_ATTENTION:_** Si vous avez un bloquer de publicité il faut le desactivé. Ces scripts n'ajoutent pas de publicité, mais ils sont détécté comme tel.  
